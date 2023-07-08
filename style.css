@@ -57,6 +57,9 @@
         font-size: 13px;
         font-weight: 400;
     }
+    h2:hover {
+        color: #F47B56;
+    }
     .show {
         display: block;
         color: #787887;
@@ -101,7 +104,7 @@
         color: #1E1F36;
         font-weight: 700;
     }
-    .box {
+    #box {
         display: none;
     }
 }

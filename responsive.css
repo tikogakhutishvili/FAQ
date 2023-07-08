@@ -54,11 +54,13 @@
     h1 {
         margin-bottom: 45px;
     }
-    .box {
+    #box {
+        max-width: 100%;
+        max-height: 100%;
         display: block;
         position: absolute;
-        z-index: 3;
-        left: -77px;
-        top: 177px;
+        z-index: 1;
+        left: 12.5%;
+        top: 42%;
     }
 }
